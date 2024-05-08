@@ -1,0 +1,20 @@
+Line detected.
+0 of total errors detected in input file.
+***Datatypes***
+0 of integer numbers detected.
+0 of hexadecimal numbers detected.
+3 of float numbers detected.
+***Operators***
+2 of add operators detected.
+0 of power operators detected.
+0 of multiplication operators detected.
+***Others***
+0 of left bracket operators detected.
+0 of right bracket operators detected.
+0 of multipleexpression operators detected.
+***Summary***
+0 of comment lines canceled.
+0 of void lines ignored.
+File processed sucessfully.
+Totally 1 of valid code lines in file processed.
+File processed sucessfully.
